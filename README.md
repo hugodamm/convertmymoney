@@ -1,36 +1,33 @@
 # ConvertMyMoney
-A web application built with Javascript, using the Express.js framework, HTML, CSS and Unitary Tests. Converts a currency using quantity and quote values. It results in the final value of the currency at the exchange rate of the specific quote.
 
-ConvertMyMoney
-
-Start
+## Start
 
 ConvertMyMoney is a simple currency converter that takes a value and converts it to the quote value of the desired currency.
 
-Prerequisites
+## Prerequisites
 
 You need to have NodeJS and NPM installed on your computer.
 
 ... npm install ...
 
-Layout
-The layout was created, using Figma. You can view it, clicking [here] (https://www.figma.com/file/dPEPhRFlIpslObChaBsIrsOs/ConvertMyMoney?node-id=0%3A1).
+## Layout
+The layout was created, using Figma. You can view it, clicking [here](https://www.figma.com/file/dPEPhRFlIpslObChaBsIrsOs/ConvertMyMoney?node-id=0%3A1).
 
 This project can be put into production, using Vercel (no extra settings). [Draft]
 
-Built with
+## Built with
 
-Express Node.js web app framework
-Figma - Online prototyping tool.
+* [Express](https://expressjs.com/pt-br/) Node.js web app framework
+* [Figma](https://www.figma.com) - Online prototyping tool.
 
-Author
+## Author
 
-Hugo Damm LinkedIn
+**Hugo Damm** [LinkedIn](https://www.linkedin.com/in/hugodamm/)
 
-License
+## License
 
 This project is licensed under MIT license - see LICENSE.md for more information.
 
-Acknowlegments
+## Acknowlegments
 
 This project was built during the [DevPleno's] (https://devpleno.com) Fullstack Master classes.
