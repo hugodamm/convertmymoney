@@ -17,8 +17,11 @@ This project can be put into production, using Vercel (no extra settings). [Draf
 
 ## Built with
 
-* [Express](https://expressjs.com/pt-br/) Node.js web app framework
 * [Figma](https://www.figma.com) - Online prototyping tool.
+* [NodeJS](https://nodejs.org/) -  JavaScript runtime built on Chrome's V8 JavaScript engine.
+* [Express](https://expressjs.com) - Simple web framework.
+* [Jest](https://jestjs.io/) - JavaScript Testing Framework with a focus on simplicity.
+
 
 ## Author
 
@@ -30,4 +33,4 @@ This project is licensed under MIT license - see LICENSE.md for more information
 
 ## Acknowlegments
 
-This project was built during the [DevPleno's] (https://devpleno.com) Fullstack Master classes.
+This project was built during the [DevPleno's](https://devpleno.com) Fullstack Master classes.
