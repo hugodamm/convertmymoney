@@ -8,6 +8,7 @@
     "ansi-styles": "^4.3.0",
     "array-flatten": "^1.1.1",
     "async": "^3.2.4",
+    "axios": "^1.2.1",
     "balanced-match": "^1.0.2",
     "body-parser": "^1.20.1",
     "brace-expansion": "^1.1.11",
@@ -83,5 +84,8 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.3.1"
+  },
+  "jest": {
+    "collectCoverage": true
   }
 }
